@@ -1,4 +1,4 @@
-# Matematequiz 🧮🎮
+# Quiz Matemático 🧮🎮
 
 Um jogo de perguntas e respostas de matemática básica em C, com sistema de pontuação, histórico e calculadora integrada.
 
